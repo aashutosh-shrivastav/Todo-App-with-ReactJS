@@ -12,10 +12,12 @@ function App() {
 //use effects
  
 useEffect (()=>{
+  console.log("effect with [] ");
   getLocalTodos();
 },[]);
 
 useEffect(()=>{
+  
   filterHandaler();
   saveLocalTodos();
 },[todos,status]);
