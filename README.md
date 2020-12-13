@@ -1,3 +1,8 @@
+#Todo App with ReactJS
+
+A simple todo app to keep track of tasks to be done, not done and needed to be done.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
