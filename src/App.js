@@ -12,7 +12,7 @@ function App() {
 //use effects
  
 useEffect (()=>{
-  console.log("effect with [] ");
+  //console.log("effect with [] ");
   getLocalTodos();
 },[]);
 
